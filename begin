@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 rs.close();
 out.write(”aString”);
 public static void main(String[] args)
