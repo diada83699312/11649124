@@ -1,3 +1,4 @@
+test.init();
 Properties props = new Properties();
 while (rs.next())
 // error processing code
