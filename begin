@@ -1,3 +1,4 @@
+// do the thing you do
 test.init();
 Properties props = new Properties();
 while (rs.next())
