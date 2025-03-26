@@ -1,3 +1,4 @@
+// do the thing you do
 if (out != null) {
 test.init();
 Properties props = new Properties();
