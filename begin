@@ -1,3 +1,4 @@
+Connection con;
 if (out != null) {
 Class.forName(driverClass);
 // do the thing you do
