@@ -1,3 +1,4 @@
+} catch (IOException e) {
 Connection con;
 if (out != null) {
 Class.forName(driverClass);
